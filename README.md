@@ -1,17 +1,18 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jawwad Ahmad
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jawwad Ahmad
+====================================================================================================================================
 
-## Software Engineer
+Software Engineer
+-----------------
 
 I'm a Blockchain Developer with a knack for front-end development, leveraging three years of coding experience to build secure and intuitive decentralized applications.
 
-- 🌍 I'm based in Pakistan
-- 🖥️ See my portfolio at [MyPortfolio](http://portfolio-jawwadahmaddev.vercel.app/)
-- ✉️ You can contact me at [jawwadhmad.dev@gmail.com](mailto:jawwadhmad.dev@gmail.com)
-- 🧠 I'm learning Next.js, Python for Data Science
+* 🌍  I'm based in Pakistan
+* 🖥️  See my portfolio at [MyPortfolio](http://portfolio-jawwadahmaddev.vercel.app/)
+* ✉️  You can contact me at [jawwadhmad.dev@gmail.com](mailto:jawwadhmad.dev@gmail.com)
+* 🧠  I'm learning Next.js, Python for Data Science
 
 <a href="https://www.github.com/JawwadAhmadDev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JawwadAhmadDev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
@@ -28,6 +29,8 @@ src="https://img.shields.io/github/followers/JawwadAhmadDev?logo=github&style=fo
 <a href="http://www.github.com/JawwadAhmadDev"><img src="https://github-readme-stats.vercel.app/api?username=JawwadAhmadDev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JawwadAhmadDev's GitHub stats" /></a>
 
 <a href="http://www.github.com/JawwadAhmadDev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JawwadAhmadDev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/JawwadAhmadDev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=JawwadAhmadDev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/JawwadAhmadDev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JawwadAhmadDev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
